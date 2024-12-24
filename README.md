@@ -70,7 +70,7 @@
 
 #### 4. Survey of flu shot rates in children
 #### Source: [CDC](https://wonder.cdc.gov/ucd-icd10.html){:target="_blank"}
-#### Source: <a href="https://wonder.cdc.gov/ucd-icd10.html" target="_blank">CDC</a>
+#### Source: <a href="https://wonder.cdc.gov/ucd-icd10.html" rel="noopener noreferrer" target="_blank">CDC</a>
 #### Download Data Set
 
 ## Analysis Criteria
