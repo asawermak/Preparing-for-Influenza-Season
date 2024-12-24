@@ -55,23 +55,22 @@
 #### The following data sets covering influenza in the United States will be used during the project:
 
 #### 1. Influenza deaths by geography
-#### Source: CDC
-#### Download Data Set
+#### Source: [CDC](https://wonder.cdc.gov/ucd-icd10.html)
+#### [Download Data Set](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fcoach-courses-us.s3.amazonaws.com%2Fpublic%2Fcourses%2Fda_program%2FCDC_Influenza_Deaths_edited.xlsx&wdOrigin=BROWSELINK)
 
 #### 2. Population data by geography, time, age, and gender
 #### Source: US Census Bureau
-#### Download Data Set
+#### [Download Data Set](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fcoach-courses-us.s3.amazonaws.com%2Fpublic%2Fcourses%2Fda_program%2FCDC_Influenza_Deaths_edited.xlsx&wdOrigin=BROWSELINK)
 ### Note: These numbers are estimates; hence the sum of the numbers from the different age groups may not sum up to the total in the first columns, but that’s totally okay.
 
 #### 3. Counts of influenza laboratory test results by state (survey)
-#### Source: CDC (Fluview)
-#### Download Influenza Visits Data Set
-#### Download Lab Tests Data Set
+#### Source: [CDC](https://gis.cdc.gov/grasp/fluview/fluportaldashboard.html)
+#### [Download Influenza Visits Data Set](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fimages.careerfoundry.com%2Fpublic%2Fcourses%2Fdata-immersion%2FA1-A2_Influenza_Project%2FCDC_Influenza_Visits.xlsx&wdOrigin=BROWSELINK)
+#### [Download Lab Tests Data Set](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fimages.careerfoundry.com%2Fpublic%2Fcourses%2Fdata-immersion%2FA1-A2_Influenza_Project%2FCDC_Lab_Tests.xlsx&wdOrigin=BROWSELINK)
 
 #### 4. Survey of flu shot rates in children
-#### Source: [CDC](https://wonder.cdc.gov/ucd-icd10.html){:target="_blank"}
-#### Source: <a href="https://wonder.cdc.gov/ucd-icd10.html" rel="noopener noreferrer" target="_blank">CDC</a>
-#### Download Data Set
+#### Source: [CDC](https://www.cdc.gov/vaccines/imz-managers/nis/about.html)
+#### [Download Data Set](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fimages.careerfoundry.com%2Fpublic%2Fcourses%2Fdata-immersion%2FA1-A2_Influenza_Project%2FNIS_Flu_Shot_Survey_reduced.xlsx&wdOrigin=BROWSELINK)
 
 ## Analysis Criteria
 #### -> Explain the data cleaning conducted.
